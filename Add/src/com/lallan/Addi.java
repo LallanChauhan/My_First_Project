@@ -8,6 +8,7 @@ public class Addi {
 		System.out.println(a+b);
 		int c=40;
 		System.out.println(a*c*b);
+		System.out.println("Hello");
 	}
 
 }
