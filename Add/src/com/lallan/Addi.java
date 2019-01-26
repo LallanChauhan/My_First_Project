@@ -6,6 +6,8 @@ public class Addi {
 		int a=20;
 		int b=30;
 		System.out.println(a+b);
+		int c=40;
+		System.out.println(a*c);
 	}
 
 }
